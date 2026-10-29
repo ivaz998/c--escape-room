@@ -1,0 +1,20 @@
+1
+Wimbledon hodnik: Nalazite se pred vratima najpoznatijeg teniskog turnira. Za prolaz morate tocno odgovoriti.
+2
+Soba reketa: Zidovi su puni starih reketa. Samo pravi odgovor otkljucava sljedeca vrata.
+3
+Soba servisa: Lopte lete velikom brzinom. Dokazite da poznajete tenis.
+4
+Zelena trava: Stojite na terenu. Vrata se otvaraju samo pravim odgovorom.
+5
+Soba Grand Slama: Ispred vas su cetiri velika pehara. Odaberite tocno.
+6
+Tajna svlacionica: U ormaru je skrivena sifra. Pitanje vodi dalje.
+7
+Soba sudca: Sudac vas promatra sa stolice. Odgovorite tocno da nastavite.
+8
+Tunel sampiona: Cujete pljesak publike. Jos malo do izlaza.
+9
+Finalni teren: Nalazite se na centru terena. Pogreska vas zadrzava u sobi.
+10
+Zlatni pehar: Zadnja vrata cuva najteze pitanje. Rijesite ga i pobjegnite iz teniskog escape rooma.

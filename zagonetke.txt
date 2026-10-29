@@ -1,0 +1,20 @@
+1
+Koliko igraca igra pojedinacni tenis?;A) 1 protiv 1;B) 2 protiv 2;C) 3 protiv 3;D) 4 protiv 4;A;
+2
+Kako se zove udarac kojim zapocinje poen?;A) Volej;B) Servis;C) Backhand;D) Lob;B;
+3
+Koliko setova najcesce treba osvojiti za pobjedu u mecu?;A) 1;B) 2;C) 3;D) 4;B;
+4
+Koja podloga se koristi na Wimbledonu?;A) Zemlja;B) Beton;C) Trava;D) Parket;C;
+5
+Koji turnir NIJE Grand Slam?;A) Wimbledon;B) Roland Garros;C) US Open;D) Davis Cup;D;
+6
+Kako se zove rezultat kada oba igraca imaju 40?;A) Deuce;B) Break;C) Set;D) Match;A;
+7
+Sto znaci ace u tenisu?;A) Pogresan servis;B) Servis koji protivnik ne dotakne;C) Udarac u mrezu;D) Kraj seta;B;
+8
+Koliko poena ima igrac kada ima rezultat 30?;A) Jedan poen;B) Dva poena;C) Tri poena;D) Cetiri poena;B;
+9
+Kako se zove udarac iznad glave, slican servisu?;A) Drop shot;B) Slice;C) Smash;D) Forehand;C;
+10
+Sto znaci break u tenisu?;A) Osvojiti gem na protivnikov servis;B) Izgubiti set;C) Pogoditi mrezu;D) Promijeniti reket;A;
